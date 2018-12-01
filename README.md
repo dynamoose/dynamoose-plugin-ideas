@@ -1,0 +1,1 @@
+# dynamoose-plugin-ideas
